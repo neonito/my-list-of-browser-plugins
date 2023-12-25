@@ -1,5 +1,5 @@
 # my-list-of-browser-plugins
-**his is a list of browser extensions that will allow you to maintain greater security while using your browser**
+**This is a list of browser extensions that will allow you to maintain greater security while using your browser**
 
 
 
