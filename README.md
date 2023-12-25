@@ -47,6 +47,9 @@ https://addons.mozilla.org/en-US/firefox/addon/webgl-fingerprint-defender/
 
 https://addons.mozilla.org/en-US/firefox/addon/absolutedouble-trace/
 
+
+https://addons.mozilla.org/en-US/firefox/addon/librejs/
+
 uBlock Origin - an add-on that blocks ads and other unwanted elements on websites. 
 Privacy Badger - protects your privacy by blocking elements that track you on websites.
 Location Guard - allows you to control how your location is shared in your browser. 
@@ -65,5 +68,3 @@ WebGL Fingerprint Defender - protects you from tracking through WebGL.
 Trace - blocks scripts that can collect your data.
 GNU LibreJS - an add-on for GNU/Linux users that blocks scripts on websites that are not available under a free license.
 
-
-https://addons.mozilla.org/en-US/firefox/addon/librejs/
