@@ -50,7 +50,7 @@ https://addons.mozilla.org/en-US/firefox/addon/absolutedouble-trace/
 
 https://addons.mozilla.org/en-US/firefox/addon/librejs/
 
-**uBlock Origin - an add-on that blocks ads and other unwanted elements on websites.**
+**uBlock Origin - an addon that blocks ads and other unwanted elements on websites.**
 
 
 **Privacy Badger - protects your privacy by blocking elements that track you on websites.**
