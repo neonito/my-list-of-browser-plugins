@@ -38,4 +38,4 @@ Font Fingerprint Defender - protects you from tracking through unique font style
 Searchonymous2 - prevents search engines from tracking your searches
 WebGL Fingerprint Defender - protects you from tracking through WebGL
 Trace - blocks scripts that can collect your data
-**GNU LibreJS - an add-on for GNU/Linux users that blocks scripts on websites that are not available under a free license
+GNU LibreJS - an add-on for GNU/Linux users that blocks scripts on websites that are not available under a free license
