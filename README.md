@@ -4,7 +4,8 @@
 
 **This is a list of browser extensions that will allow you to maintain greater security while using your browser**
 
-`https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+```
+https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
 https://addons.mozilla.org/en-US/firefox/addon/location-guard/
 https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/
@@ -19,11 +20,9 @@ https://addons.mozilla.org/en-US/firefox/addon/font-fingerprint-defender/
 https://addons.mozilla.org/en-US/firefox/addon/searchonymous2/
 https://addons.mozilla.org/en-US/firefox/addon/webgl-fingerprint-defender/
 https://addons.mozilla.org/en-US/firefox/addon/absolutedouble-trace/
-https://addons.mozilla.org/en-US/firefox/addon/librejs/`
+https://addons.mozilla.org/en-US/firefox/addon/librejs/
 
-# Plugins Description
-
-```uBlock Origin - an addon that blocks ads and other unwanted elements on websites
+uBlock Origin - an addon that blocks ads and other unwanted elements on websites
 Privacy Badger - protects your privacy by blocking elements that track you on websites
 Location Guard - allows you to control how your location is shared in your browser
 Chameleon - changes your browser's identifier to make tracking more difficult
